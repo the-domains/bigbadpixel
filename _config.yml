@@ -1,0 +1,14 @@
+layout_spectrum: 0.7991102756932378
+typography_spectrum: 0.8362401260528713
+color:
+  brandStrength: 0.4001738599035889
+  lightness: 0.1462999116629362
+  saturation: 0.6468750620260835
+  rhythmicContrast: 0.03142075682990253
+  brandColors:
+    - '#5A1F00'
+    - '#D1570D'
+    - '#FDE792'
+    - '#477725'
+    - '#A9CC66'
+name: BIGBADPIXEL
