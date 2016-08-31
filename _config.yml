@@ -11,6 +11,10 @@ color:
     - '#F4EEA9'
     - '#F4F482'
 layout_spectrum: 0.7991102756932378
+author:
+  name: Matthew Aldrich
+  email: matt@bigbadpixel.com
+logo: null
 name: BIGBADPIXEL
 title: Digital Design
 description: helping the world..... one pixel at a time!
