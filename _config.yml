@@ -1,20 +1,14 @@
-layout_spectrum: 0.49370459001511335
-typography_spectrum: 0.6340568533632904
+layout_spectrum: 0.7991102756932378
+typography_spectrum: 0.8362401260528713
 color:
-  brandStrength: 0.029587487690150738
-  lightness: 0.6243110278155655
-  saturation: 0.10281299892812967
-  rhythmicContrast: 0.6280328573193401
+  brandStrength: 0.4001738599035889
+  lightness: 0.1462999116629362
+  saturation: 0.6468750620260835
+  rhythmicContrast: 0.03142075682990253
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-author:
-  name: Matthew Aldrich
-  email: matt@bigbadpixel.com
-logo: null
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 name: BIGBADPIXEL
-title: Digital Design
-description: helping the world..... one pixel at a time!
